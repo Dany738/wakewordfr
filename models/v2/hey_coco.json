@@ -1,8 +1,8 @@
 {
   "type": "micro",
   "wake_word": "hey coco",
-  "author": "",
-  "website": "",
+  "author": "coco",
+  "website": "https://github.com/Marcel0024/micro-wake-word-models",
   "model": "https://github.com/Marcel0024/micro-wake-word-models/raw/refs/heads/main/models/v2/hey_coco.tflite",
   "version": 1,
   "micro": {
