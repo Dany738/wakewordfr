@@ -3,7 +3,7 @@
   "wake_word": "hey coco",
   "author": "",
   "website": "",
-  "model": "./hey_coco.tflite",
+  "model": "https://github.com/Marcel0024/micro-wake-word-models/raw/refs/heads/main/models/v2/hey_coco.tflite",
   "version": 1,
   "micro": {
     "probability_cutoff": 0.25,
