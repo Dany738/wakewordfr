@@ -1,12 +1,17 @@
 {
   "type": "micro",
-  "wake_word": "hey coco",
-  "author": "coco",
-  "website": "https://github.com/Marcel0024/micro-wake-word-models",
-  "model": "https://github.com/Marcel0024/micro-wake-word-models/raw/refs/heads/main/models/v2/hey_coco.tflite",
-  "version": 1,
+  "wake_word": "Hey Coco",
+  "author": "Marcel0024",
+  "model": "hey_coco.tflite",
+  "trained_languages": [
+    "en"
+  ],
+  "version": 2,
   "micro": {
-    "probability_cutoff": 0.25,
-    "sliding_window_average_size": 10
+    "probability_cutoff": 0.98,
+    "sliding_window_size": 5,
+    "feature_step_size": 10,
+    "tensor_arena_size": 30000,
+    "minimum_esphome_version": "2024.7.0"
   }
 }
