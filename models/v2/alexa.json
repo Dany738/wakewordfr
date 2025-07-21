@@ -1,10 +1,9 @@
 {
   "type": "micro",
-  "wake_word": "Alexa",
-  "author": "Kevin Ahrendt",
-  "website": "https://www.kevinahrendt.com/",
-  "model": "alexa.tflite",
-  "trained_languages": ["en"],
+  "wake_word": "Aaziz",
+  "author": "Dany Boy",
+  "model": "Aziz.tflite",
+  "trained_languages": ["fr"],
   "version": 2,
   "micro": {
     "probability_cutoff": 0.9,
