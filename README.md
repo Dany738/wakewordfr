@@ -1,6 +1,6 @@
 # ESPHome `micro_wake_word` Model collection
 
-This repository serves to host `micro_wake_word` model files (`.tflite`) for ease of use with the `micro_wake_word` ESPHome component.
+This repository serves to host `micro_wake_word` with a french word model files (`.tflite`) for ease of use with the `micro_wake_word` ESPHome component.
 
 ## Usage
 
